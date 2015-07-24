@@ -21,9 +21,9 @@ Run dev server
 npm start
 ```
 
-Run tests
+Run test suite
 ```
-npm run tests
+npm run test
 ```
 
 

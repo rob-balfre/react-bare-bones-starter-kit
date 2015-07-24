@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A very simple but powerful starting point for building applications with React using some of the best tools currently available.",
   "scripts": {
-    "tests": "karma start",
+    "test": "karma start",
     "start": "webpack-dev-server --hot --inline"
   },
   "author": "Rob Balfre",
