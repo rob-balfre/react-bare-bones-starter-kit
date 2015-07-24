@@ -16,10 +16,12 @@ cd react-bare-bones-starter-kit
 npm install
 ```
 
-Run dev server
+Start webpack and the dev server
 ```
 npm start
 ```
+Open http://localhost:8080/ in your browser of choice.
+
 
 Run test suite
 ```
