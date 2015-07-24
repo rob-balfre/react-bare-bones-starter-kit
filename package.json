@@ -1,0 +1,29 @@
+{
+  "name": "react-bare-bones-starter-kit",
+  "version": "1.0.0",
+  "description": "A very simple but powerful starting point for building applications with React using some of the best tools currently available.",
+  "scripts": {
+    "tests": "karma start",
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "author": "Rob Balfre",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.3",
+    "babel-loader": "^5.3.2",
+    "core-js": "^1.0.0",
+    "file-loader": "^0.8.4",
+    "jasmine": "^2.2.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.31",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-webpack": "^1.5.0",
+    "react-hot-loader": "^1.2.8",
+    "webpack": "^1.10.5",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
