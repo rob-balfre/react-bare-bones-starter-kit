@@ -23,7 +23,7 @@ npm start
 
 Run test suite
 ```
-npm run test
+npm test
 ```
 
 
