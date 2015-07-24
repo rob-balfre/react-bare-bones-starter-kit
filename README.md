@@ -20,7 +20,7 @@ Start webpack and the dev server
 ```
 npm start
 ```
-Open http://localhost:8080/ in your browser of choice.
+Open [http://localhost:8080/](http://localhost:8080/) in your browser of choice.
 
 
 Run test suite
