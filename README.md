@@ -1,7 +1,7 @@
 React bare-bones starter kit
 =========================
 
-A very simple but powerful starting point for building applications with React.
+A simple starting point for building applications with React.
 
 Includes:
 
